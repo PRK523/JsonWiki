@@ -6,4 +6,8 @@
 //  Copyright © 2018 Pranoti Kulkarni. All rights reserved.
 //
 
-import Foundation
+import UIKit
+
+class Json: NSObject {
+    var urlString: String = ""
+}
